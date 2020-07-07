@@ -1,0 +1,1 @@
+# simple_structure_ddd_example
